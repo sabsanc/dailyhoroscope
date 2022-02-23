@@ -1,0 +1,65 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.website{
+	color: #061960;
+	font-family: enriqueta, Arial, "sans-serif";
+	font-size: 30px;
+}
+/*
+
+.header img{
+	float: right;
+	width: 50px;
+	height: 50px
+
+}
+*/
+
+.header{
+  background: white;
+  border: 0px solid #467813;
+  border-radius: 0px;
+  color: #fff;
+  padding: 10px 0px 10px 20px;
+  left:0;
+  right:0;
+  margin:0;
+  top:0;
+	
+}
+
+.before{
+	font-family: enriqueta, Arial, "sans-serif";
+	top: 37%;
+ 	 width: 100%;
+  	text-align: center;
+	font-size: 55px;
+}
+
+.form{
+	margin-left: 35%;
+	font-family: enriqueta, Arial, "sans-serif";
+	font-size: 20px;
+}
+
+body{ 
+	padding: 0;
+	margin: 0;
+	
+}
+
+button{
+	border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+	font-family: enriqueta, Arial, "sans-serif";
+  display: block;
+	margin: auto;
+	position: absolute;
+    top: 65%;
+	left: 47%;
+  font-size: 16px;	
+	
+}
